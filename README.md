@@ -26,7 +26,7 @@ Live Preview : "https://aves-digital-29b9f9.netlify.app/"
 
 1. open git bash/cmd in your directory
 2. Clone this repository
-3. cd avesDigital
+3. cd aves-digital
 4. npm install
 5. run the project (npm run dev)
 
