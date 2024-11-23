@@ -7,7 +7,7 @@ Live Preview : "https://aves-digital-29b9f9.netlify.app/"
 1. View Properties by Filtering Shorting
 2. Add Property
 3. Stats Visualization by using Pie Chart
-4. stored and retrieved from `localStorage`.
+4. Stored and retrieved from `localStorage`.
 5. Responsive Design
 
 ---
