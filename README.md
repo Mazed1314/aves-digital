@@ -7,7 +7,7 @@ Live Preview : "https://aves-digital-29b9f9.netlify.app/"
 1. View Properties by Filtering Shorting
 2. Add Property
 3. Stats Visualization by using Pie Chart
-4. stored and retrieved from `localStorage`.
+4. Stored and retrieved from `localStorage`.
 5. Responsive Design
 
 ---
@@ -24,9 +24,9 @@ Live Preview : "https://aves-digital-29b9f9.netlify.app/"
 
 ## Installation
 
-1. open git bash/cmd in your directory
+1. Open git bash/cmd in your directory
 2. Clone this repository
-3. cd avesDigital
+3. cd aves-digital
 4. npm install
 5. run the project (npm run dev)
 

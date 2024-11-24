@@ -29,7 +29,7 @@ const Dashboard = () => {
         {/* Property add form */}
         <div className="flex justify-end">
           <button
-            className="btn  bg-blue-500 text-white"
+            className="btn bg-blue-500 text-white"
             onClick={() => document.getElementById("my_modal_5").showModal()}
           >
             Add new Property
@@ -57,7 +57,7 @@ const Dashboard = () => {
         </div>
         <div className="lg:w-1/2">
           {/* Property list */}
-          <div className="p-4 bg-violet-100 my-4 rounded-md">
+          <div className="p-4 bg-base-200 my-4 rounded-md">
             <h2 className="text-lg font-semibold my-4">
               Property List : {properties.length}
             </h2>

@@ -29,10 +29,7 @@ const PropertyForm = ({ onAddProperty }) => {
   };
 
   return (
-    <form
-      className="bg-violet-100 p-4 shadow-md rounded"
-      onSubmit={handleSubmit}
-    >
+    <form className="bg-base-200 p-4 shadow-md rounded" onSubmit={handleSubmit}>
       <h2 className="text-lg font-bold mb-4">Add New Property</h2>
       <div className="mb-2">
         <label className="block font-medium">Property Name:</label>
